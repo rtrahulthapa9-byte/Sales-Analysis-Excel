@@ -1,7 +1,5 @@
 # Sales-Analysis-Excel
 
-![Screenshot 2026-03-12 151840 (1)](Screenshot 2026-03-12 151840 (1))
-
 **Dataset Overview**
 
 Dataset contains Amazon sales data for 2025. I imported a messy dataset from Kaggle with 14 columns, including Order_ID, Date, Customer_ID, Product_Category, Product_Name, Quantity, Unit_Price, Total_Sales_Price, Payment_Method, Delivery_Status, Review_Rating, Review_Text, State, and Country.
