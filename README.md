@@ -1,6 +1,6 @@
 # Sales-Analysis-Excel
 
-![Screenshot](screenshot.png)
+![Screenshot 2026-03-12 151840 (1)](Screenshot 2026-03-12 151840 (1))
 
 **Dataset Overview**
 
