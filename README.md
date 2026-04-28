@@ -1,10 +1,10 @@
 # Sales-Analysis-Excel
 
-![Dashboard Screenshot](dashboard.png)
+![Screenshot](screenshot.png)
 
-**About datasets**
+**Dataset Overview**
 
-Data consists of Amazon sales from 2025. I imported a messy dataset from Kaggle, which contains 14 columns, including Order ID, Date, Customer ID, Product Category, Product Name, Quantity, Unit Price, Total Sales Price, Payment Method, Delivery Status, Review Rating, Review Text, State, and Country.
+Dataset contains Amazon sales data for 2025. I imported a messy dataset from Kaggle with 14 columns, including Order_ID, Date, Customer_ID, Product_Category, Product_Name, Quantity, Unit_Price, Total_Sales_Price, Payment_Method, Delivery_Status, Review_Rating, Review_Text, State, and Country.
 
 **Data cleaning**
 
