@@ -7,12 +7,19 @@
 🎯 Key Insights
 
 🔸 Beauty is the top-performing category (227.9M in sales).
+
 🔸 COD is the most preferred payment method.
+
 🔸  Sikkim leads in both orders (1,313) and revenue (98.7M).
+
 🔸 Children’s Books and Perfume have the highest demand.
+
 🔸  Returns caused a major loss (364.5M, ~32% of sales).
+
 🔸  5,055 orders are pending and need urgent action.
+
 🔸 Vacuum Cleaners & Water Purifiers show lowest demand.
+
 🔸  Home & Kitchen is the weakest category overall.
 
 🎯 Recommendations
