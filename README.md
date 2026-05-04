@@ -5,6 +5,7 @@
 👉 Data was unstructured and difficult to analyze, limiting visibility into revenue, returns, and regional performance. I cleaned and transformed the data using excel, then built a dashboard to track cash flow, delivery success, top-performing states, return losses, product trends, and payment insights.It helped me identify growth opportunities and improve business decisions.
 
 🎯 Key Insights
+
 🔸 Beauty is the top-performing category (227.9M in sales).
 🔸 COD is the most preferred payment method.
 🔸  Sikkim leads in both orders (1,313) and revenue (98.7M).
@@ -15,6 +16,7 @@
 🔸  Home & Kitchen is the weakest category overall.
 
 🎯 Recommendations
+
 🔹 Analyze high return losses (364.5M) and identify courier-related issues.
 🔹  Clear 5,055 pending orders quickly to avoid cancellations.
 🔹 Run targeted sales to clear low-demand inventory and free up warehouse space.
