@@ -25,11 +25,17 @@
 🎯 Recommendations
 
 🔹 Analyze high return losses (364.5M) and identify courier-related issues.
+
 🔹  Clear 5,055 pending orders quickly to avoid cancellations.
+
 🔹 Run targeted sales to clear low-demand inventory and free up warehouse space.
+
 🔹 Reallocate marketing budget from low-performing to high-growth categories.
+
 🔹  Increase ad spend on top-performing segments to maximize revenue.
+
 🔹  Strengthen supply and offers in high-performing states.
+
 🔹  Encourage online payments to improve delivery speed and operational efficiency.
 
 **Tools**: Excel
