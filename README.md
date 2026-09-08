@@ -5,9 +5,14 @@
 In this project, I analyzed an e-commerce sales dataset with 13 columns and 15,038 rows covering 2025, and built an interactive dashboard to help businesses monitor sales performance and make data-driven decisions.
  
 #### Tools I used
-* MS Excel
-* Power Query
-* Power BI
+* MS Excel: Data Cleaning
+* Power BI: Build interactive Dashboard
+
+#### DAX Functions Used
+* Aggregation:SUM
+* Variable:VAR
+* Table Manipulation:SUMMARIZE, TOPN
+* Iterator:MAXX, MINX, RANKX
 
 #### KPIs Overview
 The dashboard tracks three key performance indicators — Total Revenue, Total Orders, and Total Quantity — providing a quick snapshot of overall business performance, sales volume, and product demand at a glance.
