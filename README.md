@@ -29,15 +29,16 @@ The dashboard includes 8 visualizations covering revenue and order trends across
 
 #### Key Insights
 
-•	Generate ₹1,122M in revenue from 15,037 orders, with an average order value of ₹74,602, tracked delivery performance showing 33.84% delivered, 33.62% pending, and 32.54% returned
+* Generate ₹1,122M in revenue from 15,037 orders, with an average order value of ₹74,602, tracked delivery performance showing 33.84% delivered, 33.62% pending, and 32.54% returned
 
-•	Identified Sikkim, Chhattisgarh, and Rajasthan as top revenue generating states, while Andhra Pradesh, Gujarat, and Nagaland showed the lowest earnings.
+* Identified Sikkim, Chhattisgarh, and Rajasthan as top revenue generating states, while Andhra Pradesh, Gujarat, and Nagaland showed the lowest earnings.
 
-• Found Headphones, Children's Book, and Lipstick as the best selling products, while Vacuum Cleaner, Water Purifier, and Shampoo had the lowest sales.
+* Found Headphones, Children's Book, and Lipstick as the best selling products, while Vacuum Cleaner, Water Purifier, and Shampoo had the lowest sales.
 
-•	Analyzed sales trends across 5 product categories and 4 quarters, showing Books as the top category by orders (3,046) and Q3 as the strongest quarter for both orders (3,820) and revenue (₹281M)
+* Analyzed sales trends across 5 product categories and 4 quarters, showing Books as the top category by orders (3,046) and Q3 as the strongest quarter for both orders (3,820) and revenue (₹281M)
 
-####### This project helped me strengthen my skills in data visualization, dashboard development, KPI analysis, DAX and business intelligence
+
+###### This project helped me strengthen my skills in data visualization, dashboard development, KPI analysis, DAX and business intelligence
 
 
 
