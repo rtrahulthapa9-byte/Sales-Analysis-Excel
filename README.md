@@ -5,7 +5,7 @@
 In this project, I analyzed an e-commerce sales dataset with 13 columns and 15,038 rows covering 2025, and built an interactive dashboard to help businesses monitor sales performance and make data-driven decisions.
  
 #### Tools I used
-* MS Excel: Data Cleaning
+* MS Excel: Data Cleaning & Formatting
 * Power BI: Build interactive Dashboard
 
 #### DAX Functions Used
